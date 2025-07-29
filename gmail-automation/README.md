@@ -64,7 +64,7 @@ Both are compiled and sent via your Gmail account to the target address.
 
 Built using the Model Context Protocol and Tools mentioned.
 
-Inspired by the NxtWave MCP Workshop
+Inspired by the NxtWave MCP Workshop.
 
 
  
